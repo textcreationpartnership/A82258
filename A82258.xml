@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration set forth by the lord lieutenant generall the gentlemen of the councell &amp; assembly occasioned from the view of a printed paper. Entituled An act prohibiting trade with the Barbados, Virginea, Bermudes and Antegoe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82258</idno>
+            <idno type="STC">Wing D793</idno>
+            <idno type="STC">Thomason E644_4</idno>
+            <idno type="STC">ESTC R206044</idno>
+            <idno type="EEBO-CITATION">99865236</idno>
+            <idno type="PROQUEST">99865236</idno>
+            <idno type="VID">165972</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165972)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E644[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration set forth by the lord lieutenant generall the gentlemen of the councell &amp; assembly occasioned from the view of a printed paper. Entituled An act prohibiting trade with the Barbados, Virginea, Bermudes and Antegoe.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Broun English bookseller,</publisher>
+                  <pubPlace>Hagh :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob. 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulations --  Early works to 1800.</term>
+               <term>Restraint of trade --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165972:1" rendition="simple:additions"/>
+            <p>A DECLARATION Set forth by the <hi>Lord</hi> LIEUTENANT GENERALL the GENTLE<g ref="char:EOLhyphen"/>MEN of the Councell &amp; aſſembly occaſioned from the view of a printed paper.</p>
+            <p>ENTITULED. <hi>An Act Prohibiting trade with</hi> the <hi>Barbados, Virginea, Bermudes</hi> and <hi>Antegoe.</hi>
+            </p>
+            <p>HAGH <hi>Printed by</hi> Samuel Broun <hi>English Bookeſeller.</hi> 1651. <add>Octob .29.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_of_the_Lord_Lieutenant_General_and_Council">
+            <pb facs="tcp:165972:2"/>
+            <opener>
+               <dateline>
+                  <date>18. FEBRUARY 1650.</date>
+               </dateline>
+            </opener>
+            <head>A <hi>Declaration</hi> ſet forth by the Lord <hi>Lieutenant</hi> the <hi>Gentlemen</hi> of the Councell and aſſembly occa<g ref="char:EOLhyphen"/>ſioned from the view of a prin<g ref="char:EOLhyphen"/>ted paper <hi>Entituled an Act prohi<g ref="char:EOLhyphen"/>biting trade with</hi> the <hi>Barbados, Virgi<g ref="char:EOLhyphen"/>nia, Bermudes</hi> and <hi>Antegoe.</hi>
+            </head>
+            <p>THe Lord <hi>Lieutenant Generall</hi> together which the <hi>Gentle<g ref="char:EOLhyphen"/>men</hi> of this Councell and aſſembly having carrefully peruſed the ſayd printed paper and finding therein matter ſo highly concerning the <hi>freedome, happineſſe</hi> and <hi>wellfaire</hi> of this <hi>Iſlande</hi> thought it their duty to Communi<g ref="char:EOLhyphen"/>cate the ſame unto all the <hi>Inhabitans</hi> of this place together which their <hi>obſervations</hi> and <hi>reſolutions</hi> upon the ſame, and for the better and more methodical proceding therein they have firſt ordered the ſame to be publikly read as followeth.</p>
+            <p>Thus farre goes the ſayd Act by which the meaneſt underſtanding may be ſenſible into how low an abject a bondage, the force of it would (if not prevented) reduce the <hi>Inhabitans</hi> of this <hi>Iſland.</hi>
+            </p>
+            <p n="1">
+               <pb facs="tcp:165972:2"/> I. For firſt <hi>they do Alleadge that this Iſland was ſetled at the coſt and char<g ref="char:EOLhyphen"/>ges of the People of England, and therefore ought to be ſubjected to the people of England.</hi>
+            </p>
+            <p>Certainly we all know that we the now <hi>Inhabitants</hi> of this <hi>Iſland</hi> were and ſtill are thoſe People of <hi>England</hi> the which with great hazard of out <hi>perſons</hi> and at our great <hi>coſt</hi> and <hi>charges</hi> have ſetled and inhabited this place and shall we therfore be ſub<g ref="char:EOLhyphen"/>jected to the wills of thoſe that ſtay at home? Shall we be bound by the regulations of the <hi>Parliament</hi> in which we have no <hi>repreſentatives</hi> no <hi>perſons</hi> there choſen by us to propoſe or conſent to what is good for us or to oppoſe, or diſpute what is not for our benefit or behoofe? certainly this were a Slauish im<g ref="char:EOLhyphen"/>poſition beyond what Englishmen ever yet ſufferd &amp; we doubt not but thoſe courages which have brought us ſo farre from our <hi>Native Soile</hi> and found us out a living in theſe wild woods will ſtill keep us <hi>freemen</hi> (whithout which) our lives will be but lothſome to us.</p>
+            <p n="2">II. Secondly <hi>it is alleaged you the inhabitans of this Iſland have by ſubtilty and force uſurped a power of Gouvernment.</hi>
+            </p>
+            <p>Had we the <hi>Inhabitans</hi> of this <hi>Iſland</hi> ben heard what we could have ſayd, this allegation had never been printed. But thoſe who are deſigned to be ſlaves muſt not have the priviledge otherwiſe we could have ſayd and moſt truly can &amp; do averr that the <hi>Gouvernment</hi> now if of force amongſt us is the ſame that hath ben conſtantly <hi>adhered</hi> unto, and <hi>obeyed</hi> ever ſince the ſetling this place and given unto us by the ſame Authority which gave <hi>New England</hi> theirs, againſt whom the ſayd Act
+<pb facs="tcp:165972:3"/>objecteth nothing, and this <hi>Gouvernment</hi> now obeyed here is the neareſt moddell and reſſemblance (now left in the world) of that admirable forme under which all our <hi>Anceſtours</hi> of the <hi>English Nation</hi> florished for at leaſt one thouſand yeares paſt, &amp; therfore we shall conclude the rules of logick and diſcovrie to be ſtrangly inverted, if the <hi>Continuance</hi> of, and <hi>Submiſsion</hi> to the ſettled rightfull <hi>Gouvernment</hi> be adjudged an uſurpation of new power, and on the <hi>Contrary</hi> an <hi>Vſurpation</hi> of a new <hi>Gouvernment</hi> and be held a <hi>Continuance</hi> of the <hi>Old.</hi>
+            </p>
+            <p n="3">III. Thirdly <hi>by the ſayd Act all Forraigners are prohibited from holding any commerce with the inhabitans of this Iſland.</hi>
+            </p>
+            <p>Whereas all the old <hi>Planters</hi> well know how much they have ben beholding to the <hi>Dutch</hi> for their ſubſiſtance, and how difficult it would have ben (without their aſſiſtances) ever to have ſettled this place &amp; even to this day we are ſenſible what neceſſary comforts they bring us and how much cheaper they ſell their <hi>Commodities</hi> to us then our owne Nation; but this comfort muſt be taken from us by them whoſe will muſt be our law: But we do <hi>Declare</hi> that we will never be ſo ungratefull to the <hi>Dutch</hi> for former helps as to deny them or any other Na<g ref="char:EOLhyphen"/>tion the freedome of our <hi>Ports</hi> and <hi>Protection</hi> of our <hi>Lawes</hi> wher<g ref="char:EOLhyphen"/>by they may ſtill (&amp; if they pleaſe) embrace a free <hi>Trade</hi> and <hi>Commerce</hi> with us.</p>
+            <p n="4">IV. Fourthly to compleat our deſigned bondage, and make our necks willing to receive the yoake <hi>our owne Countremen are likewiſe prohibited from trade and correſpondency with us and none to come
+<pb facs="tcp:165972:3"/>neare us but ſuch as have a particular licenſe, from ſome perſons for that pur<g ref="char:EOLhyphen"/>poſe appointed.</hi>
+            </p>
+            <p>By which meanes it may come to paſſe that no <hi>goods</hi> or <hi>com<g ref="char:EOLhyphen"/>modities</hi> shall be brought hither but ſuch as thoſe <hi>licenſed perſons</hi> shall pleaſe to be ſold at the <hi>prizes</hi> that they shall <hi>impoſe;</hi> and no ships but theris arrive here, ſo that no <hi>Inhabitants</hi> of this <hi>Iſland,</hi> shall be able to ſend home the <hi>Native Commodities</hi> of this place for their owne account but be as meerely ſlaves to that Com<g ref="char:EOLhyphen"/>pany that shall have the ſayd licenſe as our <hi>Negroes</hi> are to us, they making theirs the whole advantage of our labours and induſtries here. And therfore upon the whole matter we do declare that as on the one ſide we will not be wanting to uſe all the <hi>honeſt honorable,</hi> and <hi>moderate</hi> meanes we can for the conti<g ref="char:EOLhyphen"/>nuanc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a <hi>free trade</hi> and faire <hi>correſpondancy</hi> with our native countrey; ſo on the other ſide we will not ſo much degenerate from the ancient candour of true <hi>Englishmen</hi> as to proſtitute thoſe <hi>Liberties</hi> and <hi>Fredomes</hi> (to which we were borne) to the will and pleaſure of any: Neither do we thinke our <hi>numbers</hi> ſo <hi>contemptible</hi> or our <hi>reſolutions</hi> ſo <hi>weake</hi> as either to be <hi>forced</hi> or <hi>per<g ref="char:EOLhyphen"/>ſuaded</hi> to ſo vile a <hi>ſubmiſsion.</hi>
+            </p>
+            <p>And we can not imagine that there is ſo meane &amp; baſe minded a fellow amongſt us, that will not perferre an honorable <hi>Death,</hi> before a <hi>Tedious</hi> &amp; <hi>ſlavish life:</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>20. of Februari 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="act_of_the_Lord_Lieutenant_General_and_Council">
+            <pb n="6" facs="tcp:165972:4"/>
+            <opener>
+               <dateline>
+                  <date>19. FEBRUARY 1650.</date>
+               </dateline>
+            </opener>
+            <head>An Act for <hi>Defence</hi> of the <hi>Government Liberties</hi> and <hi>Freedomes</hi> of this <hi>Iſland.</hi>
+            </head>
+            <p>WHereas the peacable Government of his <hi>Iſland</hi> together which the rightfull liberties of the <hi>Inha<g ref="char:EOLhyphen"/>bitants</hi> thereof are in great and apparent <hi>hazard</hi> to be loſt, unleſſe ſeaſonnable and timely care be uſed to preſerve the ſame, and whereas no expedient can be more proper and more agreable to <hi>reaſon</hi> and <hi>Iuſtice</hi> then that all thoſe perſons, who enjoy thoſe <hi>Liberties</hi> &amp; <hi>Priviledges</hi> should cheefully and unanimouſly <hi>Engage</hi> for the maintainnance and defence of the ſame.</p>
+            <p>Be it therfore <hi>Enacted</hi> and <hi>Ordained</hi> by the <hi>Lord Lieutenant Ge<g ref="char:EOLhyphen"/>nerall</hi> the <hi>Councell</hi> and <hi>Gentlemen</hi> of the Aſſembly and by Autho<g ref="char:EOLhyphen"/>rity of the ſame, that all <hi>Freeholders</hi> &amp; <hi>Freemen</hi> living and abiding within this <hi>Iſland,</hi> shall at ſome time before the 20 day of <hi>March</hi> Next enſuing the date hereof, repaire to ſome one of the <hi>Juſtices</hi> of the parish wherein they reſpectively shall live or abide at ſuch time and place as shall be by them appointed, and willingly, cheerefully ſubſcribe the enſuing <hi>Engagement,</hi> by ſetting their names and markes unto the ſame, and be it further <hi>Enacted,</hi> and <hi>Ordeined,</hi> by the Authority afore ſayd, that all and every <hi>Perſon</hi> or <hi>Perſons</hi> that shall not have repaired to ſome one of the ſayd <hi>Iuſtices</hi> aforeſayd, and ſubſcribe the <hi>Engagement</hi> before the 20. of <hi>March</hi> according to the true Intent and meaning of this preſent Act, that all and every ſuch <hi>Perſon</hi> or <hi>Perſons</hi> shall be from thence forth diſabled to be plaintife in any <hi>Action</hi> real or Perſonall, in any <hi>Court</hi> within this <hi>Iſland,</hi> and from being <hi>heire</hi> to any man; or any man to be <hi>heire</hi> to him or in
+<pb n="7" facs="tcp:165972:4"/>capable of ever making a will, or being Executours, and his Perſon to be ſecured at ſuch time and in ſuch manner as to the right <hi>Honorable</hi> the Lord <hi>Lieutenant Generall</hi> and <hi>Councell</hi> shall ſeeme fit or convenient, unleſſe the ſayd <hi>Perſon</hi> shall con<g ref="char:EOLhyphen"/>forme him ſelf and shew reaſonnable excuſe for his neglect therein, and it is further <hi>Ordained</hi> and <hi>Enacted</hi> that the ſaid <hi>Juſti<g ref="char:EOLhyphen"/>ces</hi> of every parish within this <hi>Iſland</hi> be required and Autho<g ref="char:EOLhyphen"/>riſed to receave the ſaid Subſcription and after the ſaid 20. day of <hi>March</hi> to make returne thereof with the name of all ſuch <hi>Perſons</hi> as have not ſubſcribed the ſame unto the right <hi>Honnorable</hi> the Lord <hi>Lieutenant Generall,</hi> or whom his <hi>Lordship</hi> shall apoint to recive the ſame. And be it further <hi>Enacted</hi> and <hi>Ordained,</hi> by the Authority aforeſayd that whatſoever <hi>Perſon</hi> or <hi>Perſons,</hi> ſo conforming and ſubſcribing the ſayd enſuing <hi>Enga<g ref="char:EOLhyphen"/>gement</hi> as by this Act is required and shall faile to performe ac<g ref="char:EOLhyphen"/>cordingly, shall be counted and cald upon, as an <hi>Enemy</hi> to the publike peace of this <hi>Iſland</hi> and being therof convicted at a publick Seſſions by a Iury of twelfe men shall ſuffer accord<g ref="char:EOLhyphen"/>ing to the nature of his offence.</p>
+            <p>Laſtly be it <hi>Enacted</hi> &amp; <hi>Ordained</hi> by the Authority aforeſayd, that all Servants with in this <hi>Iſland</hi> their times Expiring before or after the 20. day of <hi>March</hi> as afore ſayd, shall within one month after ſuch Expiration of their ſayd time repaire unto the reſpective <hi>Iuſtices</hi> in their ſeverall precints which in this <hi>Iſland,</hi> and there ſubſcribe to this ſayd <hi>Engagement</hi> (and not ſub<g ref="char:EOLhyphen"/>ſcribing and failing to performe accordingly) be counted as aforeſayd and being convicted as is before mentioned shall accordingly ſuffer.</p>
+            <div type="part">
+               <pb facs="tcp:165972:5"/>
+               <head>THE ENGAGEMENT.</head>
+               <p>WE whoſe names are here under<g ref="char:EOLunhyphen"/>written do whilſt we live in this <hi>Iſland</hi> Mutually <hi>Covenant</hi> &amp; <hi>Engage</hi> each with the other, &amp; with the uttmoſt ha<g ref="char:EOLhyphen"/>zard of our <hi>Perſons</hi> &amp; <hi>Eſtats,</hi> to maintaine and defend the <hi>rightfull Government</hi> of this place by <hi>Councell</hi> and <hi>Aſſembly</hi> as alſo the Perſon of the <hi>Right Honnorable</hi> the <hi>Lord Willughby.</hi> Acknowledged our <hi>Governour</hi> &amp; <hi>Lord Lieutenant Generall</hi> by the Conſent and Approbation of the whole <hi>Iſland</hi> with all the <hi>Freedomes Liberties</hi> and <hi>Pri<g ref="char:EOLhyphen"/>viledges</hi> Juſtly belonging to the <hi>Lord Wil<g ref="char:EOLhyphen"/>lughby</hi> or us the <hi>Inhabitants</hi> hereof as well concerning our <hi>Lawes Religion Perſons</hi> &amp;c <hi>Eſtates</hi> within this <hi>Iſland,</hi> as alſo our free <hi>Commerce</hi> &amp; <hi>Trade</hi> both at home &amp; abroad in forraine parts againſt all manner of <hi>Perſons</hi> or <hi>Nations</hi> whatſoever that shall attempt or Endevour to Deprive us of the ſame,</p>
+               <closer>
+                  <dateline>
+                     <date>20. February 1650.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
